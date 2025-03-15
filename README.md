@@ -1,3 +1,3 @@
-Install: npm test
-Excute: npm start
+Install: npm install <br />
+Excute: npm start <br />
 Test: npm test
